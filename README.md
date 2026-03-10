@@ -8,6 +8,9 @@ Dashboard Preview
 
 This single-page comprehensive dashboard integrates demographic insights with performance biometrics to provide a 360-degree view of member health.
 
+![ss_4](https://github.com/user-attachments/assets/af8710fe-663c-4d44-a3f0-0d3182eadbf2)
+
+
 Key Analytical Insights
 
 Energy Expenditure: Identified Cardio as the most efficient workout type for high caloric burn.
